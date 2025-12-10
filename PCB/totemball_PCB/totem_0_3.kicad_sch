@@ -1538,7 +1538,7 @@
 	)
 	(text "F F C"
 		(exclude_from_sim no)
-		(at 176.53 36.322 0)
+		(at 163.576 35.56 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -1627,7 +1627,7 @@
 	)
 	(text "F F C"
 		(exclude_from_sim no)
-		(at 123.698 36.068 0)
+		(at 105.156 35.56 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -3722,6 +3722,28 @@
 			)
 		)
 	)
+	(global_label "GND_R"
+		(shape input)
+		(at 179.07 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "162ceee9-d53b-475f-90d3-e753da3f13a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.07 29.0067 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ROW0_R"
 		(shape input)
 		(at 265.176 114.808 0)
@@ -4184,6 +4206,28 @@
 			)
 		)
 	)
+	(global_label "GND_L"
+		(shape input)
+		(at 121.92 36.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c79ccbc-5974-4f8f-8d3b-78ba0126b122")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 27.9786 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDIO_R"
 		(shape input)
 		(at 187.96 50.8 0)
@@ -4438,7 +4482,7 @@
 		)
 		(uuid "8b1243f7-78e3-40b0-b730-007e9a4bd5b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.0893 54.5306 0)
+			(at 139.6614 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
