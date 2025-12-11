@@ -5467,7 +5467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 245.364 107.188 0)
 			(effects
 				(font
@@ -5619,7 +5619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 57.658 151.638 0)
 			(effects
 				(font
@@ -5757,7 +5757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 68.326 106.68 0)
 			(effects
 				(font
@@ -5959,7 +5959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 234.696 107.188 0)
 			(effects
 				(font
@@ -6026,7 +6026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 57.658 106.68 0)
 			(effects
 				(font
@@ -6298,7 +6298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 213.36 122.174 0)
 			(effects
 				(font
@@ -6433,7 +6433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 245.364 137.16 0)
 			(effects
 				(font
@@ -6500,7 +6500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 234.696 122.174 0)
 			(effects
 				(font
@@ -6567,7 +6567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 46.99 121.666 0)
 			(effects
 				(font
@@ -6831,7 +6831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 234.696 137.16 0)
 			(effects
 				(font
@@ -6967,7 +6967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 213.36 107.188 0)
 			(effects
 				(font
@@ -7103,7 +7103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 57.658 121.666 0)
 			(effects
 				(font
@@ -7170,7 +7170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 68.326 136.652 0)
 			(effects
 				(font
@@ -7375,7 +7375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 78.994 151.638 0)
 			(effects
 				(font
@@ -7442,7 +7442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 213.36 152.146 0)
 			(effects
 				(font
@@ -7509,7 +7509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 234.696 152.146 0)
 			(effects
 				(font
@@ -7576,7 +7576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 245.364 122.174 0)
 			(effects
 				(font
@@ -7643,7 +7643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 36.322 106.68 0)
 			(effects
 				(font
@@ -7983,7 +7983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 68.326 121.666 0)
 			(effects
 				(font
@@ -8050,7 +8050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 78.994 106.68 0)
 			(effects
 				(font
@@ -8117,7 +8117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 224.028 137.16 0)
 			(effects
 				(font
@@ -8460,7 +8460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 46.99 106.68 0)
 			(effects
 				(font
@@ -8527,7 +8527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 78.994 136.652 0)
 			(effects
 				(font
@@ -8594,7 +8594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 78.994 121.666 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 213.36 137.16 0)
 			(effects
 				(font
@@ -8866,7 +8866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 57.658 136.652 0)
 			(effects
 				(font
@@ -9273,7 +9273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 256.032 107.188 0)
 			(effects
 				(font
@@ -9685,7 +9685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 224.028 122.174 0)
 			(effects
 				(font
@@ -10379,7 +10379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 256.032 122.174 0)
 			(effects
 				(font
@@ -10515,7 +10515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 46.99 136.652 0)
 			(effects
 				(font
@@ -10582,7 +10582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 68.326 151.638 0)
 			(effects
 				(font
@@ -10649,7 +10649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 36.322 121.666 0)
 			(effects
 				(font
@@ -10854,7 +10854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 224.028 107.188 0)
 			(effects
 				(font
@@ -10921,7 +10921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 224.028 152.146 0)
 			(effects
 				(font
@@ -11057,7 +11057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 36.322 136.652 0)
 			(effects
 				(font
@@ -11193,7 +11193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TOTEMlib:Kailh_socket_PG1350_optional"
+		(property "Footprint" "TOTEMlib:SW_Kailh_Choc_V1V2_HotSwap_Hybrid"
 			(at 256.032 137.16 0)
 			(effects
 				(font
